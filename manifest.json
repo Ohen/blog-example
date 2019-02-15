@@ -1,0 +1,9 @@
+{
+  "name": "Eddie's Blog",
+  "short_name": "Eddie's Blog",
+  "theme_color": "#505d71",
+  "background_color": "#ededed",
+  "display": "fullscreen",
+  "Scope": "/",
+  "start_url": "/"
+}

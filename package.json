@@ -1,0 +1,28 @@
+{
+  "name": "blog-example",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "vue-cli-service serve",
+    "build": "vue-cli-service build && cp ./dist/index.html ./index.html ",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "config": "^3.0.1",
+    "vue": "^2.6.6",
+    "vue-router": "^3.0.2",
+    "vuex": "^3.1.0",
+    "webpack-dev-server": "^3.1.14"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.4.0",
+    "@vue/cli-plugin-eslint": "^3.4.0",
+    "@vue/cli-service": "^3.4.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "copy-webpack-plugin": "^4.6.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "sw-precache-webpack-plugin": "^0.11.5",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.29.3"
+  }
+}
