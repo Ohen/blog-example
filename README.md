@@ -1,5 +1,2 @@
-# ohen.github.com
-
-[View page](http://ohen.github.io)
-
-Github - Blog webpage 
+# blog-example 
+this is example by vue.js
